@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there!
-  <img src="https://c.tenor.com/yGOEI_Z1jPYAAAAi/dinosandcomics-dinosaur.gif" width="40" height="40" />
+  <img src="https://www.animatedimages.org/data/media/187/animated-dinosaur-image-0078.gif"  height="50" />
 </h1>
 
 
